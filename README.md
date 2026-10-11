@@ -1,2 +1,9 @@
 # homebrew-tap
-Homebrew tap for pfwd: brew install hoanghero125/tap/pfwd
+
+Homebrew tap for [pfwd](https://github.com/hoanghero125/pfwd), the VS Code Ports panel for any terminal: it detects the ports listening on an SSH host and forwards them to localhost.
+
+```sh
+brew install hoanghero125/tap/pfwd
+```
+
+GoReleaser updates `Casks/pfwd.rb` on every pfwd release. Open issues in the [pfwd repository](https://github.com/hoanghero125/pfwd/issues), not here.
